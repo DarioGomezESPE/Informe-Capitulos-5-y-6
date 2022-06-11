@@ -40,4 +40,18 @@ Ejercicios Capítulo 5
 [![imagen-2022-06-10-233102025.png](https://i.postimg.cc/wxWn12Sp/imagen-2022-06-10-233102025.png)](https://postimg.cc/PNwScWX3)
 [![imagen-2022-06-10-235640428.png](https://i.postimg.cc/9FBS3hhC/imagen-2022-06-10-235640428.png)](https://postimg.cc/566pvDyR)
 
+Ejercicios Capítulo 6
 
+[![imagen-2022-06-11-001520624.png](https://i.postimg.cc/bYn0SHC5/imagen-2022-06-11-001520624.png)](https://postimg.cc/8s1fqWVd)
+[![imagen-2022-06-11-001659599.png](https://i.postimg.cc/0jvzwmrg/imagen-2022-06-11-001659599.png)](https://postimg.cc/ftHW4Vx5)
+[![imagen-2022-06-11-001727536.png](https://i.postimg.cc/qBchdmZp/imagen-2022-06-11-001727536.png)](https://postimg.cc/6T35rhXP)
+[![imagen-2022-06-11-001801160.png](https://i.postimg.cc/zXJLDn9K/imagen-2022-06-11-001801160.png)](https://postimg.cc/bdBY32Yw)
+[![imagen-2022-06-11-001826902.png](https://i.postimg.cc/6QGqbzvJ/imagen-2022-06-11-001826902.png)](https://postimg.cc/d7wJL264)
+[![imagen-2022-06-11-001851134.png](https://i.postimg.cc/1thtk6Gg/imagen-2022-06-11-001851134.png)](https://postimg.cc/7C9w75QD)
+[![imagen-2022-06-11-001915519.png](https://i.postimg.cc/C5wK1g6S/imagen-2022-06-11-001915519.png)](https://postimg.cc/Q9nD4R3y)
+[![imagen-2022-06-11-001950558.png](https://i.postimg.cc/g2LGGjk3/imagen-2022-06-11-001950558.png)](https://postimg.cc/zyNsjJhf)
+[![imagen-2022-06-11-002015501.png](https://i.postimg.cc/L4ySfLJz/imagen-2022-06-11-002015501.png)](https://postimg.cc/vD6Cw1LB)
+[![imagen-2022-06-11-002104694.png](https://i.postimg.cc/1zZ1PKdZ/imagen-2022-06-11-002104694.png)](https://postimg.cc/CRJQsbYv)
+[![imagen-2022-06-11-002144791.png](https://i.postimg.cc/QtxPxYkv/imagen-2022-06-11-002144791.png)](https://postimg.cc/cK2TFmzc)
+[![imagen-2022-06-11-002207036.png](https://i.postimg.cc/J0s2jyFq/imagen-2022-06-11-002207036.png)](https://postimg.cc/rRLjkpM0)
+[![imagen-2022-06-11-002234235.png](https://i.postimg.cc/X7yPJCdN/imagen-2022-06-11-002234235.png)](https://postimg.cc/4msP2nWj)
