@@ -55,3 +55,15 @@ Ejercicios Capítulo 6
 [![imagen-2022-06-11-002144791.png](https://i.postimg.cc/QtxPxYkv/imagen-2022-06-11-002144791.png)](https://postimg.cc/cK2TFmzc)
 [![imagen-2022-06-11-002207036.png](https://i.postimg.cc/J0s2jyFq/imagen-2022-06-11-002207036.png)](https://postimg.cc/rRLjkpM0)
 [![imagen-2022-06-11-002234235.png](https://i.postimg.cc/X7yPJCdN/imagen-2022-06-11-002234235.png)](https://postimg.cc/4msP2nWj)
+
+4.VIDEO
+
+5.CONCLUSIONES
+
+• Los circuitos en serie poseen una sola trayectoria para la corriente, y si alguno de los elementos se quema el circuito entero deja de funcionar, ademas en circuitos serie se puede aplicar ley de ohm, leyes de Kirchoff y ecuaciones de potencia, por otra parte la localización de fallas se pueden presentar un cortocircuito y circuito abierto debido a un elemento dañado.
+
+• Los circuitos en paralelo poseen diferentes tratectorias para la corriente y su voltaje se matiene igual para todos los elementos en paralelo, al igual que al circuito serie se puede aplicar ley de ohm, leyes de kirchoff y ecuaciones de potencia, referente a la localización de fallas cuando un circuito paralelo un elemento se quema los demas elementos siguen funcionando, igualmente se pueden presentar cortocircuitos y circuitos abiertos.
+
+6.BIBLIOGRAFÍA
+
+• Floy, T. (2007). Principios de circuitos eléctricos - Octava edición . PEARSON EDUCACIÓN. https://drive.google.com/file/d/15UCq2JrPEKKB8SwajlmtTcE07nMiowaK/view
